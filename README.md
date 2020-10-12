@@ -1,1 +1,1 @@
-# This repository contains codes from pytho lab while going through foundations of AI
+# This repository contains codes from python lab while going through foundations of AI
